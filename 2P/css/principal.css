@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(162, 163, 240);
+}
+
+.navbar{
+    background-color: rgb(243, 183, 238);
+    border-radius: 0px 0px 20px 20px;
+    box-shadow: 0 10px 7.5px rgba(0, 0, 0, 0.2);
+}
+
+img{
+    background-color: white;
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+}
+
+.si:hover{
+    background-color: rgb(4, 0, 255);
+    border-radius: 10px;
+    border-color: transparent;
+}
+
+.si:hover{
+    background-color: rgb(226, 225, 180);
+}
