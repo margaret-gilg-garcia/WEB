@@ -1,9 +1,10 @@
 body{
-    background-color: rgb(238, 168, 255);
+    background-color: rgb(31, 23, 53);
 }
 
 .navbar{
-    background-color: rgb(223, 157, 217);
+    background-color: rgb(44, 29, 61);
+    color: white;
     border-radius: 0px 0px 20px 20px;
     box-shadow: 0 10px 7.5px rgba(0, 0, 0, 0.2);
 }
@@ -23,4 +24,13 @@ img{
 
 .si:hover{
     background-color: rgb(185, 180, 255);
+}
+
+p, h1, .nav-link{
+    color: white;
+}
+
+.degradado{
+    background-image: linear-gradient(to top, rgb(35, 65, 95) 80%, transparent 100%);
+    margin-bottom: -20px;
 }
